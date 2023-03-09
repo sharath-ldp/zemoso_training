@@ -1,9 +1,9 @@
 
-document.cookie = "favorite_food=tripe;";
+document.cookie = "name=sharath;";
 
 function showCookies() {
   const output = document.getElementById("cookies");
-  output.textContent = `> ${document.cookie}`;
+  output.textContent = ` ${document.cookie}`;
 }
 
 function clearOutputCookies() {

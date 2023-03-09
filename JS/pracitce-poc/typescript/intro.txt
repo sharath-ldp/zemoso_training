@@ -1,0 +1,28 @@
+1. TypeScript is opensource and superset of JS
+
+2. It offers additional features to javascriopt inclusing sratic types.
+
+3. Compiles down to regular JS.
+
+4. Can be used on frontend JS as well as banckend NodeJS.
+
+5. Includes most of the ES6,ES7 festures.
+
+6. "Dynamic Typed Language" is a language where the types are asociated with the run-time values and not explicitly in your code.
+Ex : JS,PYTHON (let x = 'Sharath', here type of x is decided at runtime as a string)
+
+7."Static Typed Language" is a language where you explicitly assign the tyoes to variables, functions, parameters, return types etc.
+Ex : JAVA,C,CPP
+
+8. Typescript used '.ts' & '.tsx' extensions.
+
+9. TSC (TypeScript compiler) is udes to compile down typescript files to js files.
+
+10. Can watch files and report errors at compile time.
+
+11. The 'ts.config' file is used to configure how typescript works.
+
+12. To create a tsc.config file cmd is "tsc --init"
+
+13. Browser cannot read typeScript files hence we should fiorst compile our typeScript files using the command "tsc" then it will create a new js file automatically. 
+
